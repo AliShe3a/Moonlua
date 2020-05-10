@@ -1,11 +1,17 @@
 {
-  "latest": "001",
+  "latest": "002",
   "versions": {
 	"001": {
       "version": "001",
       "release": "beta",
       "archive": "https://github.com/aligamer998/Moonlua/releases/download/001/rpc-by-she3a.rar",
       "installer": "https://github.com/aligamer998/Moonlua/releases/download/001/rpc-by-she3a.rar"
-    }
+    },
+  "002": {
+      "version": "002",
+      "release": "beta",
+      "archive": "https://github.com/aligamer998/Moonlua/releases/download/002/rpc-by-she3a.rar",
+      "installer": "https://github.com/aligamer998/Moonlua/releases/download/002/rpc-by-she3a.rar"
+  }
   }
 }
